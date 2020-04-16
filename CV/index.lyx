@@ -1,0 +1,469 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extarticle
+\begin_preamble
+%\usepackage[small,compact]{titlesec}
+
+\usepackage{enumitem}
+%\setlist[itemize]{noitemsep}
+\setlist[itemize]{itemsep=0.02in}
+
+\usepackage{soul}
+\end_preamble
+\use_default_options true
+\begin_modules
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Amie Roten — Curriculum Vitae
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+\begin_inset Graphics
+	filename amieroten.jpg
+	scale 10
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://amieroten.github.io/CV"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Professional Education
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+in general: most recent first
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Graduate
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Degree, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2019-present, M.S.
+ in Computer Science
+\begin_inset Newline newline
+\end_inset
+
+Oregon Health and Science University, Portland, OR
+\end_layout
+
+\begin_layout Subsection*
+Undergraduate
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Degree, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2017-2019, Post-Baccalaureate Study in Computer Science
+\begin_inset Newline newline
+\end_inset
+
+Portland State University, Portland, OR
+\end_layout
+
+\begin_layout Itemize
+2007-2013, B.A.
+ in Linguistics
+\begin_inset Newline newline
+\end_inset
+
+University of Illinois at Urbana-Champaign, Urbana, IL
+\end_layout
+
+\begin_layout Section
+Professional Experience
+\end_layout
+
+\begin_layout Subsection*
+Academic
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Position, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2019, Undergraduate T.A.
+ for Operating Systems
+\begin_inset Newline newline
+\end_inset
+
+2018-2019, Undergraduate T.A.
+ for Data Structures
+\begin_inset Newline newline
+\end_inset
+
+Portland State University, Portland, OR
+\end_layout
+
+\begin_layout Subsection*
+Other
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Position, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2019, Software Engineering Intern
+\begin_inset Newline newline
+\end_inset
+
+Intel Corporation, Hillsboro, OR
+\end_layout
+
+\begin_layout Itemize
+2016-2018, Research Assistant
+\begin_inset Newline newline
+\end_inset
+
+National Center for Rehabilitative Auditory Research, Portland, OR
+\end_layout
+
+\begin_layout Itemize
+2007-2010, Research Assistant
+\begin_inset Newline newline
+\end_inset
+
+University of Illinois at Urbana-Champaign, Urbana, IL
+\end_layout
+
+\begin_layout Section
+Scholarship
+\end_layout
+
+\begin_layout Subsection
+Areas of Research/Scholarly Interest
+\end_layout
+
+\begin_layout Standard
+I am interested generally in applying machine learning and computational
+ techniques to analysis and problem solving in the domain of natural, spoken
+ language, both perception and production.
+ I am currently pursuing an M.S.
+ in Computer Science at Oregon Health and Science University, under the
+ Center for Spoken Language Understanding.
+ In addition to my coursework in machine learning and data science, through
+ the mentorship of Dr.
+ Alexander Kain, I've had the opportunity to assist with ongoing development
+ of a system which integrates automatic speech recognition and deep learning
+ techniques to automatically assess the pronunciation of children with speech
+ sound disorders.
+\end_layout
+
+\begin_layout Standard
+I also have experience in the field of auditory speech perception and psychoacou
+stics, and have been involved in several projects investigating how humans
+ across age groups, with and without hearing loss, perceive aspects of spoken
+ language under a variety of realistic conditions.
+ 
+\end_layout
+
+\begin_layout Subsection
+Publications/Creative Work
+\end_layout
+
+\begin_layout Paragraph
+In preparation / submitted
+\end_layout
+
+\begin_layout Itemize
+Amie 
+\series bold
+Roten
+\series default
+, Alexander Kain, 
+\begin_inset Quotes eld
+\end_inset
+
+Mispronunciation Detection with Phonological Feedback for Children with
+ Speech Sound Disorders
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020.
+\end_layout
+
+\begin_layout Paragraph
+Published
+\end_layout
+
+\begin_layout Paragraph
+2020
+\end_layout
+
+\begin_layout Enumerate
+Alexander Kain, Amie
+\series bold
+ Roten
+\series default
+, Robert Gale, 
+\begin_inset Quotes eld
+\end_inset
+
+Diacritic-Level Pronunciation Analysis using Phonological Features
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP 2020.
+ Poster presentation and conference paper.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+2018
+\end_layout
+
+\begin_layout Enumerate
+Emily Wilson, Amie 
+\series bold
+Roten
+\series default
+, William Bologna, Michelle Molis, 
+\begin_inset Quotes eld
+\end_inset
+
+Effect of Time Compression and Reverberation among Younger and Older Listeners
+ with Normal Hearing
+\begin_inset Quotes erd
+\end_inset
+
+, American Auditory Society 2018.
+ Poster presentation.
+\end_layout
+
+\begin_layout Enumerate
+Michelle R.
+ Molis, William J.
+ Bologna, Brandon M.
+ Madsen, Amie 
+\series bold
+Roten
+\series default
+, Ramesh Muralimanohar, Caitlin E.
+ Milligan, Curtis J.
+ Billings, 
+\begin_inset Quotes eld
+\end_inset
+
+Envelope-Following and Frequency-Following Responses Elicited by Signals
+ of Increasing Complexity
+\begin_inset Quotes erd
+\end_inset
+
+, Association for Research in Otolaryngology 2018.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+2017
+\end_layout
+
+\begin_layout Enumerate
+Amie 
+\series bold
+Roten
+\series default
+, Michelle R.
+ Molis, 
+\begin_inset Quotes eld
+\end_inset
+
+Examining the effect of first formant transition on perception of dynamic
+ spectral change in the second formant
+\begin_inset Quotes erd
+\end_inset
+
+, Acoustical Society of America 2017.
+ Poster presentation.
+\end_layout
+
+\begin_layout Enumerate
+Amie 
+\series bold
+Roten
+\series default
+, Michelle R.
+ Molis, 
+\begin_inset Quotes eld
+\end_inset
+
+Detection of dynamic spectral change in tone, single formant, and multi-formant
+ contexts: A comparison
+\begin_inset Quotes erd
+\end_inset
+
+, NCRAR Bi-Annual Conference 2017.
+ Poster presentation.
+\end_layout
+
+\begin_layout Subsubsection*
+Patents
+\end_layout
+
+\begin_layout Enumerate
+Alexander Kain and Amie 
+\series bold
+Roten
+\series default
+, OHSU.
+ Mispronunciation Detection with Phonological Feedback.
+ (Provisional, filed 2020-04-08)
+\end_layout
+
+\begin_layout Subsubsection*
+OHSU Disclosures
+\end_layout
+
+\begin_layout Enumerate
+#2867 Phonological Feature-based Automatic Pronunciation Analysis and Feedback
+ System, 02/11/2020
+\end_layout
+
+\begin_layout Section
+Service
+\end_layout
+
+\begin_layout Itemize
+2019, Girls Who Code Facilitator
+\end_layout
+
+\begin_layout Itemize
+2018--2019, Portland State University, We in Computer Science (WiCS) Mentor
+\end_layout
+
+\end_body
+\end_document
